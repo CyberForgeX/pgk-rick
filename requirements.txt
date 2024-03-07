@@ -1,0 +1,16 @@
+jinja2
+PyYAML
+pytest
+
+
+# Create a virtual environment (optional but recommended)
+python -m venv pkr_apple
+
+# Activate the virtual environment (skip this step if you didn't create a virtual environment)
+# Windows
+my_env\Scripts\activate
+# macOS/Linux
+source my_env/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
