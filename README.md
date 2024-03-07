@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="pkg_logo.png" alt="PKG-Rick Logo">
+</div>
+
+
 # PKG-Rick Package
 
 PKG-Rick is a straightforward configuration management tool for Python applications. It simplifies configuration handling with a sleek, modern approach inspired by languages like Go, Swift, Java, and Kotlin.
