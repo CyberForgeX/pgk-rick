@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="pkg_logo.png" alt="PKG-Rick Logo">
+  <img src="pkg_logo.png" alt="PKG-Rick Logo" width="400" height="400">
 </div>
 
 
